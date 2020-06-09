@@ -1,0 +1,5 @@
+//DECLARATION & ASSIGNATION
+
+int a;
+a = 7;
+int b = 8;

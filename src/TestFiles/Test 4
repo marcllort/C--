@@ -1,0 +1,6 @@
+//PARENTHESIS
+
+int a = 8;
+int b = 7;
+int c = 5;
+int d = a - (b + c);

@@ -1,0 +1,16 @@
+//CONDITIONAL (IF)
+
+int a = 7;
+int b = 8;
+
+if(a < b){
+
+}
+
+if(a == b){
+
+}
+
+if(a > b){
+
+}

@@ -1,0 +1,4 @@
+//VARIABLE NOT DECLARED
+
+int a = 8;
+int c = a - b;

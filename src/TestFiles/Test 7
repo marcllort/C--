@@ -1,0 +1,19 @@
+//MULTIPLE IF ERRORS
+
+int a = 3;
+int b = 4;
+
+//MISSING FIRST VALUE
+if(a < ){
+
+}
+
+//MISSING SECOND
+if( == a){
+
+}
+
+//MISSING COMPARATOR
+if(a b){
+
+}
